@@ -1,10 +1,15 @@
 .banner {
-    background: url(https://wallpaperbat.com/img/475812-striking-dark-wallpaper-sites-that-are-perfect-for-your-desktop.jpg) no-repeat center center;
+    background: url(https://e1.pxfuel.com/desktop-wallpaper/362/728/desktop-wallpaper-my-retrowave-pc-setup-retro-wave-pc.jpg) no-repeat center center;
     background-size: cover;
     padding-top: 20%;
     padding-bottom: 20%;
     color: #fff;
 }
-.crop-img {
-    object-fit: cover;
+.kontak {
+    background: url("https://wallpaperaccess.com/full/1867010.jpg") no-repeat
+      center center;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: #fff;
 }
